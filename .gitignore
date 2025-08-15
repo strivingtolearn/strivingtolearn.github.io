@@ -1,0 +1,10 @@
+/*.gem
+/.bundle/
+/.idea/
+/.jekyll-cache/
+/.jekyll-metadata/
+/.vendor/
+/.vscode/
+/Gemfile.lock
+/_site/
+
