@@ -1,8 +1,11 @@
 ---
 title: Code Block Highlighting
+date: 2025-08-19 20:53:00 -0400
 description: How different languages look with this theme
+categories: [computers]
 tags: [markdown, theming]
 ---
+
 
 The headings below show what I used for the `<syntax>` in each code block example.
 ````
